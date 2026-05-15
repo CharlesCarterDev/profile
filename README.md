@@ -122,15 +122,6 @@ flowchart LR
 
 ---
 
-### GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CharlesCarterDev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub statistics for CharlesCarterDev" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesCarterDev&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Most-used languages for CharlesCarterDev" height="165" />
-</p>
-
----
-
 ### Availability
 
 Available for **contract, part-time, and fully remote** work — flexible and asynchronous alongside full-time employment, comfortable with project-based engagements and detailed written guidelines.
